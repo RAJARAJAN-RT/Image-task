@@ -1,0 +1,23 @@
+.demoimage{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height:15%;
+    width: 25%;
+    border-radius: 15%;
+}
+body{
+   background-color: black;
+    
+
+}
+h1{
+    color:cornsilk;
+    text-align: center;
+}
+p{
+    color:cornsilk;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   
+}
